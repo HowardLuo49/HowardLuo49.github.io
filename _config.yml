@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Title Placeholder
+title: Howard Luo
 
 # Your name to show in the footer
 author: Howard Luo
@@ -21,9 +21,9 @@ author: Howard Luo
 
 navbar-links:
   About Me: "A slightly mental computer scientist."
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 ################
