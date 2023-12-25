@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Computer Science Interests
-subtitle: Research & Hobbies
+title: Computer Science Research Interests
 ---
 
 Research
 - Large Language Models
-
-Hobby Projects
-- Building video game macros
-- LLM based desktop assistant tools
