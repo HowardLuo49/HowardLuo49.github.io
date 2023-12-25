@@ -21,6 +21,7 @@ author: Howard Luo
 
 navbar-links:
   About Me: "aboutme"
+  CS Interests: "csInterests"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
