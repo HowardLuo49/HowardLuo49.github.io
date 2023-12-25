@@ -4,5 +4,9 @@ title: Computer Science Interests
 subtitle: Research & Hobbies
 ---
 
-- Filler
-- Filler
+Research
+- Large Language Models
+
+Hobby Projects
+- Building video game macros
+- LLM based desktop assistant tools
