@@ -20,7 +20,8 @@ author: Howard Luo
 ###############################################
 
 navbar-links:
-  CS Interests: "csInterests"
+  Research: "csInterests"
+  Teaching Jobs: "teaching"
   Coursework: "coursework"
   About Me: "aboutme"
   #Resources:
