@@ -3,7 +3,7 @@ layout: page
 title: Teaching Experience
 ---
 
-Math Grader\
+Math Grader
 * Rutgers University
 * Spring 2022 - present
 * Introduction to Linear Algebra & Mathematical Theory of Statistics
