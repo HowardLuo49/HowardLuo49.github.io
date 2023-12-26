@@ -20,9 +20,9 @@ author: Howard Luo
 ###############################################
 
 navbar-links:
+  Coursework: "coursework"
   Research Interests: "csInterests"
   Teaching Experience: "teaching"
-  Coursework: "coursework"
   About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
