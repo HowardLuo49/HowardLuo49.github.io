@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computer Science Research Interests
+title: Research Interests
 ---
 
 Large Language Models for Scientific Problem Solving Based on Retrieval Augmented Hint Generation
