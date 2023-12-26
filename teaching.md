@@ -4,9 +4,9 @@ title: Teaching Experience
 ---
 
 Math Grader
-    - Rutgers University
-    - Spring 2022 - present
-    - Introduction to Linear Algebra & Mathematical Theory of Statistics
+    * Rutgers University
+* Spring 2022 - present
+* Introduction to Linear Algebra & Mathematical Theory of Statistics
 
 
 Learning Assistant
