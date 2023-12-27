@@ -21,8 +21,8 @@ author: Howard Luo
 
 navbar-links:
   Coursework: "coursework"
-  Research Interests: "csInterests"
   Teaching Experience: "teaching"
+  Research Interests: "csInterests"
   About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -131,7 +131,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#3bfff5"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
