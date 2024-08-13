@@ -5,7 +5,7 @@ title: Projects
 
 <hr style="border:2px solid gray">
 
-Here are some projects I have worked on in the past. Please contact me if you are interested in any of these ideas (particularly those under "Personal Interest"), would like to see the source code, or would like to take any of them further.
+Here are some projects I have worked on in the past. Please contact me if you are interested in any of these ideas, would like to see the source code, or would like to take any of them further (particularly those under "Personal Interest").
 
 <hr style="border:2px solid gray">
 
