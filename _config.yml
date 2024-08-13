@@ -23,6 +23,7 @@ navbar-links:
   Coursework: "coursework"
   Teaching Experience: "teaching"
   Research Interests: "csInterests"
+  Projects: "projects"
   About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
