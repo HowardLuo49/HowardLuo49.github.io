@@ -46,6 +46,18 @@ AI Soccer VAR
 - Events include (but are hopefully not limited to): offsides, fouls, yellow/red cards, how much extra time, whether the ball went out of bounds, etc.
 - Currently struggles at foul detection, primarily due to the lack of training data
 
+___
+
+Genshin Impact Resource Calculator (Inactive)
+- HTML website for calculating resource requirements for any set of desired upgrades
+- Included dynamic back-end components for resource management functionality
+
+___
+
+Navigation Automation Website (Inactive)
+- Custom built HTML website for completing repetitive mundane tasks
+- Automated frequent actions for personal use (Ex: Opening up my email and preparing a generic template for sending out to a specified list of individuals)
+
 <hr style="border:2px solid gray">
 
 ## School
@@ -76,3 +88,24 @@ Auction Website Emulator
 - Full stack project that simulates public auction sites
 - Explores possibilities for increasing bidder activity (ex: how to encourage earlier bidding instead of the last minute bidding trends we currently have?)
 - Implemented usage data trackers, automated to produce data visualizations
+
+___
+
+Photo Album
+- Full stack project that serves as place to store images
+- Used JavaFX for UI functionality
+- Implemented features for tagging, filtering/searching, and timestamping photos
+
+___
+
+Custom Text Justification
+- Designed a program to automatically format text files
+- Upgraded to handle entire directories recursively
+- Incorporated multi-threading for larger tasks (~35% reduction in time complexity for each additional thread, with diminishing returns)
+
+___
+
+Enhanced Malloc
+- Improved upon malloc from the standard C library to customize handling of memory requests
+- Implemented "intermediary caching" to make it easier for users to understand their memory usage
+- Improved space freeing/allocation speed by roughly 25% for most traditional uses
