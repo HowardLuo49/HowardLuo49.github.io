@@ -8,8 +8,7 @@ title: Teaching Experience
 ## Teaching Assistant
 **Institution:** Rutgers University  
 **Duration:** Spring 2023 - Present  
-**Course:**
-- Data Science Capstone Project
+**Course:** Data Science Capstone Project
 
 <hr style="border:2px solid gray">
 
@@ -26,13 +25,11 @@ title: Teaching Experience
 ## Learning Assistant
 **Institution:** Rutgers University  
 **Duration:** Fall 2022 - Spring 2023  
-**Course:**  
-- Introduction to Mathematical Reasoning
+**Course:** Introduction to Mathematical Reasoning
 
 <hr style="border:2px solid gray">
 
 ## Private Tutor
 **Institution:** Rutgers University  
 **Duration:** Fall 2023  
-**Course:**  
-- Data 101
+**Course:** Data 101
