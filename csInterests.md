@@ -2,6 +2,9 @@
 layout: page
 title: Research
 ---
+
+<hr style="border:2px solid gray">
+
 The following are some research projects I've worked on before. My background is more tailored to the machine learning subset, but my interests span a wide range of AI topics. I have a particular interest in applying neural networks in novel contexts for "quality of life" purposes.
 
 <hr style="border:2px solid gray">
