@@ -52,17 +52,23 @@ AI Soccer VAR
 
 Neural Network Minesweeper Player
 - CNN focused minesweeper bot
+- Added functionality to adjust to various board sizes and mine densities
 
 ___
 
 Neural Network Email Processor
 - Customized traditional email filtering techniques for a more personalized spam filter
+- Implemented adaptive machine learning techniques to dynamically adjust to a user's preferences
+- Since different individuals have different preferences on what they consider "spam", this gives the ability to adjust to each person's liking
 
 ___
 
 Android Chess App
 - Developed an application for basic chess
 - Included supplementary features: recording games, playing against the AI, etc.
+- Used Android Studio to provide interactable UI
+- Tested with thousands of historical chess games to ensure robustness
+- Experimented with multiple phone simulations to ensure device flexibility
 
 ___
 
