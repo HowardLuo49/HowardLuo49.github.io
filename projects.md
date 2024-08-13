@@ -5,7 +5,7 @@ title: Projects
 
 Here are some projects I have worked on in the past. Please contact me if you are interested in any of these ideas (particularly those under "Personal Interest"), would like to see the source code, or would like to take any of them further.
 
-## Work
+## Industry/Experience
 ___
 Network Security Consolidation Portal (Iconectiv)
 - Full Stack project to help promote security amongst different teams at Iconectiv
