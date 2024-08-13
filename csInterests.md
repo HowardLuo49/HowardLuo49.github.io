@@ -2,7 +2,7 @@
 layout: page
 title: Research Interests
 ---
-The following are some projects I've worked on before. My background is more tailored to the machine learning subset, but my interests span a wide range of AI topics. I have a particular interest in applying neural networks in novel contexts for "quality of life" purposes.
+The following are some research projects I've worked on before. My background is more tailored to the machine learning subset, but my interests span a wide range of AI topics. I have a particular interest in applying neural networks in novel contexts for "quality of life" purposes.
 
 
 ## Alphazero Based Neural Networks for 2 Move Chess
