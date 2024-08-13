@@ -29,6 +29,8 @@ title: Teaching Experience
 **Course:**  
 - Introduction to Mathematical Reasoning
 
+<hr style="border:2px solid gray">
+
 ## Private Tutor
 **Institution:** Rutgers University  
 **Duration:** Fall 2023  
