@@ -5,7 +5,7 @@ title: Projects
 
 Here are some projects I have worked on in the past. Please contact me if you are interested in any of these ideas (particularly those under "Personal Interest"), would like to see the source code, or would like to take any of them further.
 
-___
+<hr style="border:2px solid gray">
 
 ## Industry/Experience
 Network Security Consolidation Portal (Iconectiv)
@@ -14,8 +14,12 @@ Network Security Consolidation Portal (Iconectiv)
 - Aggregates all security risk data scanned from various sources and collects it all into a single portal
 - Used primarily Node.js and RESTful APIs
 
+<hr style="border:2px solid gray">
+
 ## Research
 Currently not included here due to possible confidentiality concerns. Please look at the 'Research' tab and contact me if interested.
+
+<hr style="border:2px solid gray">
 
 ## Personal Interest
 
@@ -35,6 +39,8 @@ AI Soccer VAR
 - An ongoing effort to combine a wide range of neural networks to serve all the traditional purposes of the soccer referee
 - Events include (but are hopefully not limited to): offsides, fouls, yellow/red cards, how much extra time, whether the ball went out of bounds, etc.
 - Currently struggles at foul detection, primarily due to the lack of training data
+
+<hr style="border:2px solid gray">
 
 ## School
 
