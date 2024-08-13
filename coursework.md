@@ -3,6 +3,8 @@ layout: page
 title: Coursework
 ---
 
+<hr style="border:2px solid gray">
+
 ## Computer Science
 - Data Structures
 - Computer Architecture
@@ -15,6 +17,8 @@ title: Coursework
 - Machine Learning Principles
 - Deep Learning
 
+<hr style="border:2px solid gray">
+
 ## Mathematics
 - Calculus 1-4
 - Introduction to Mathematical Reasoning
@@ -24,6 +28,8 @@ title: Coursework
 - Introduction to Real Analysis 1
 - Graph Theory
 - Cryptography
+
+<hr style="border:2px solid gray">
 
 ## Data Science/Statistics
 - Data Management for Data Science
