@@ -14,7 +14,7 @@ Network Security Consolidation Portal (Iconectiv)
 - Used primarily Node.js and RESTful APIs
 ___
 ## Research
-Currently not included here due to possible confidentiality concerns. Please look at the 'Research Interests' tab and contact me if interested.
+Currently not included here due to possible confidentiality concerns. Please look at the 'Research' tab and contact me if interested.
 
 ## Personal Interest
 ___
