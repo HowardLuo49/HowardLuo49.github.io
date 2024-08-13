@@ -31,7 +31,7 @@ Neural Network Based Image Dataset Generator
 - Sorts resultant images at 90%+ accuracy
 - Provides the potential for massive dataset generation, as videos inherently contain immense amount of photos of essentially everything
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Neural Network Based Keychain Art Generator
 - Tool for mass producing and cropping cartoon/anime characters for printing onto acrylic keychain
@@ -39,20 +39,20 @@ Neural Network Based Keychain Art Generator
 - Also doubles as a good "profile picture" generator for a desired cartoon/anime character
 - Born from my desire to mass produce acrylic keychains, but laziness in procuring the art/images for them
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 AI Soccer VAR
 - An ongoing effort to combine a wide range of neural networks to serve all the traditional purposes of the soccer referee
 - Events include (but are hopefully not limited to): offsides, fouls, yellow/red cards, how much extra time, whether the ball went out of bounds, etc.
 - Currently struggles at foul detection, primarily due to the lack of training data
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Genshin Impact Resource Calculator (Inactive)
 - HTML website for calculating resource requirements for any set of desired upgrades
 - Included dynamic back-end components for resource management functionality
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Navigation Automation Website (Inactive)
 - Custom built HTML website for completing repetitive mundane tasks
@@ -66,14 +66,14 @@ Neural Network Minesweeper Player
 - CNN focused minesweeper bot
 - Added functionality to adjust to various board sizes and mine densities
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Neural Network Email Processor
 - Customized traditional email filtering techniques for a more personalized spam filter
 - Implemented adaptive machine learning techniques to dynamically adjust to a user's preferences
 - Since different individuals have different preferences on what they consider "spam", this gives the ability to adjust to each person's liking
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Android Chess App
 - Developed an application for basic chess
@@ -82,28 +82,28 @@ Android Chess App
 - Tested with thousands of historical chess games to ensure robustness
 - Experimented with multiple phone simulations to ensure device flexibility
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Auction Website Emulator
 - Full stack project that simulates public auction sites
 - Explores possibilities for increasing bidder activity (ex: how to encourage earlier bidding instead of the last minute bidding trends we currently have?)
 - Implemented usage data trackers, automated to produce data visualizations
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Photo Album
 - Full stack project that serves as place to store images
 - Used JavaFX for UI functionality
 - Implemented features for tagging, filtering/searching, and timestamping photos
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Custom Text Justification
 - Designed a program to automatically format text files
 - Upgraded to handle entire directories recursively
 - Incorporated multi-threading for larger tasks (~35% reduction in time complexity for each additional thread, with diminishing returns)
 
-<hr style="border: 0; height: 1px; background-color: #FF0000;">
+<hr style="border: 0; height: 1px; background-color: solid gray;">
 
 Enhanced Malloc
 - Improved upon malloc from the standard C library to customize handling of memory requests
