@@ -41,6 +41,18 @@ Neural Network Based Keychain Art Generator
 
 <hr style="border: 0; height: 1px; background-color: #808080;">
 
+Speaker Diarization Subtitle Generator
+- Ongoing experiment to generate color coded video subtitles for multiple speakers
+- Seeking to handle situations where multiple individuals are speaking simultaneously
+
+<hr style="border: 0; height: 1px; background-color: #808080;">
+Youtube Automatic Timestamp Generator
+- Tool for giving viewers recommended timestamps within a youtube video to skip to
+- Helps users find when the information they are looking for in a video is presented
+- Serves as a method to divide videos into "chapters"
+
+<hr style="border: 0; height: 1px; background-color: #808080;">
+
 AI Soccer VAR
 - An ongoing effort to combine a wide range of neural networks to serve all the traditional purposes of the soccer referee
 - Events include (but are hopefully not limited to): offsides, fouls, yellow/red cards, how much extra time, whether the ball went out of bounds, etc.
